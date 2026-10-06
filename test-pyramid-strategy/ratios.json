@@ -1,0 +1,6 @@
+{
+  "unit": {"percent": 70, "runtime_budget_seconds": 60, "example": "junit5-parameterized, mockito-vs-fakes, jqwik-property"},
+  "slice": {"percent": 20, "runtime_budget_seconds": 120, "example": "webmvctest, datajpatest"},
+  "integration": {"percent": 8, "runtime_budget_seconds": 300, "example": "Testcontainers against real Postgres"},
+  "end_to_end": {"percent": 2, "runtime_budget_seconds": 600, "example": "one happy-path journey per critical flow"}
+}

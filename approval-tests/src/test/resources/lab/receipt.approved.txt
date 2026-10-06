@@ -1,0 +1,4 @@
+RECEIPT o-42
+book        2 x   15.00 =    30.00
+pen        10 x    0.99 =     9.90
+TOTAL                         39.90
